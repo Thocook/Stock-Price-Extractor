@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ticker Price Extractor</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Futures 1m Price Extractor</h1>
+        </header>
+        <section class="schedule">
+            <p><strong>Last Download:</strong> {{ last_download_time }}</p>
+        </section>
+        <section class="stocks">
+            <div class="stock-list">
+            <h2>Futures</h2>
+            {% for exchange, tickers in stock_info.items() %}
+                <h3>{{ exchange }}</h3>
+                <ul class="horizontal-list">
+                    {% for table_name, long_name in tickers.items() %}
+                        <li><a href="/api/stock_data/{{ table_name }}" class="button">{{ long_name }}</a></li>
+                    {% endfor %}
+                </ul>
+            {% endfor %}
+        </div>
+        </section>
+        <section class="stock-data">
+            <h2>Stock Data</h2>
+            {% for table_name, rows in stock_data.items() %}
+                <h3>{{ table_to_long_name.get(table_name, table_name) }}</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Datetime</th>
+                            <th>Open</th>
+                            <th>High</th>
+                            <th>Low</th>
+                            <th>Close</th>
+                            <th>Volume</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in rows %}
+                            <tr class="{{ loop.cycle('row-light', 'row-dark') }}">
+                                {% for cell in row %}
+                                    <td>{{ cell }}</td>
+                                {% endfor %}
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% endfor %}
+        </section>
+    </div>
+</body>
+</html>

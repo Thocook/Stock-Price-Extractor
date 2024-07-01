@@ -1,0 +1,155 @@
+/* Define root colors for easy theme customization */
+:root {
+    --primary-color: #001f3f; /* Dark navy blue */
+    --primary-color-hover: #00142a; /* Even darker navy blue */
+    --secondary-color: #0d1b2a; /* Dark blue/black */
+    --accent-color: #a9934b; /* White for text and accents */
+    --background-color: #e3e3e3; /* Dark background color */
+    --border-color: #2e3c4f; /* Dark gray/blue for borders */
+    --header-font-size: 2.5em;
+    --section-title-font-size: 2em;
+    --subsection-title-font-size: 1.5em;
+    --paragraph-font-size: 1.2em;
+    --box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    --button-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    --table-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul, li, table, th, td {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background-color: var(--secondary-color);
+    color: var(--accent-color);
+    padding: 20px;
+}
+
+/* Container styling */
+.container {
+    max-width: 1200px;
+    margin: auto;
+    overflow: auto;
+    padding: 20px;
+    background-color: var(--background-color);
+    box-shadow: var(--box-shadow);
+    border-radius: 8px;
+}
+
+/* Header styling */
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 20px 0;
+    border-bottom: 1px solid var(--border-color);
+}
+
+header h1 {
+    font-size: var(--header-font-size);
+    color: var(--accent-color);
+}
+
+/* Schedule section styling */
+.schedule {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.schedule p {
+    font-size: var(--paragraph-font-size);
+}
+
+/* Stocks section styling */
+.stocks {
+    margin-bottom: 40px;
+}
+
+.stocks h2 {
+    margin-bottom: 20px;
+    font-size: var(--section-title-font-size);
+    text-align: center;
+}
+
+.horizontal-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    justify-content: left;
+}
+
+.horizontal-list li {
+    margin: 10px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: var(--primary-color);
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: var(--button-box-shadow);
+}
+
+.button:hover {
+    background-color: var(--primary-color-hover);
+    transform: translateY(-3px);
+}
+
+/* Stock data table styling */
+.stock-data h2 {
+    margin-bottom: 20px;
+    font-size: var(--section-title-font-size);
+    text-align: center;
+}
+
+.stock-data h3 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: var(--subsection-title-font-size);
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    box-shadow: var(--table-box-shadow);
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid var(--border-color);
+    text-align: left;
+}
+
+th {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: var(--border-color);
+}
+
+.row-light {
+    background-color: var(--secondary-color);
+}
+
+.row-dark {
+    background-color: var(--border-color);
+}
+
+.stock-list{
+    padding: 3vh;
+}

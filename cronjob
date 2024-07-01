@@ -1,0 +1,2 @@
+* * * * * cd /app && /usr/local/bin/python /app/extract_stock_prices.py >> /var/log/cron.log 2>&1
+

@@ -1,0 +1,323 @@
+2024-06-25 23:51:31,142:INFO:Data for MES=F extracted and saved to database table MES=F.
+2024-06-25 23:51:31,506:INFO:Data for ES=F extracted and saved to database table ES=F.
+2024-06-25 23:51:32,036:INFO:Data for MNQ=F extracted and saved to database table MNQ=F.
+2024-06-25 23:51:32,334:INFO:Data for NQ=F extracted and saved to database table NQ=F.
+2024-06-25 23:51:32,848:INFO:Data for M2K=F extracted and saved to database table M2K=F.
+2024-06-25 23:51:33,996:INFO:Data for RTY=F extracted and saved to database table RTY=F.
+2024-06-25 23:51:34,173:INFO:Data for MYM=F extracted and saved to database table MYM=F.
+2024-06-25 23:51:34,638:INFO:Data for YM=F extracted and saved to database table YM=F.
+2024-06-25 23:51:34,923:INFO:Data for MGC=F extracted and saved to database table MGC=F.
+2024-06-25 23:51:35,075:INFO:Data for GC=F extracted and saved to database table GC=F.
+2024-06-25 23:51:35,223:INFO:Data for MCL=F extracted and saved to database table MCL=F.
+2024-06-25 23:51:35,474:INFO:Data for CL=F extracted and saved to database table CL=F.
+2024-06-25 23:51:35,899:INFO:Data for LE=F extracted and saved to database table LE=F.
+2024-06-25 23:51:37,110:INFO:Data for HG=F extracted and saved to database table HG=F.
+2024-06-25 23:51:37,215:INFO:Data for PL=F extracted and saved to database table PL=F.
+2024-06-25 23:51:37,614:INFO:Data for BTC=F extracted and saved to database table BTC=F.
+2024-06-25 23:51:37,717:INFO:Data for MBT=F extracted and saved to database table MBT=F.
+2024-06-25 23:51:37,805:INFO:Data for ETH=F extracted and saved to database table ETH=F.
+2024-06-25 23:51:38,225:INFO:Data for MET=F extracted and saved to database table MET=F.
+2024-06-25 23:51:39,562:INFO:Data for 6E=F extracted and saved to database table 6E=F.
+2024-06-25 23:51:39,672:INFO:Data for 6C=F extracted and saved to database table 6C=F.
+2024-06-25 23:51:39,905:INFO:Data for 6B=F extracted and saved to database table 6B=F.
+2024-06-25 23:51:40,326:INFO:Data for 6J=F extracted and saved to database table 6J=F.
+2024-06-25 23:51:41,103:INFO:Data for 6A=F extracted and saved to database table 6A=F.
+2024-06-25 23:51:41,433:INFO:Data for ZF=F extracted and saved to database table ZF=F.
+2024-06-25 23:51:41,539:INFO:Data for ZC=F extracted and saved to database table ZC=F.
+2024-06-25 23:51:41,968:INFO:Data for 6S=F extracted and saved to database table 6S=F.
+2024-06-25 23:51:42,063:INFO:Data for ZS=F extracted and saved to database table ZS=F.
+2024-06-25 23:51:42,469:INFO:Data for ZB=F extracted and saved to database table ZB=F.
+2024-06-25 23:51:42,568:INFO:Data for ZN=F extracted and saved to database table ZN=F.
+2024-06-25 23:51:42,952:INFO:Data for ZW=F extracted and saved to database table ZW=F.
+2024-06-25 23:51:43,049:INFO:Data for ZL=F extracted and saved to database table ZL=F.
+2024-06-25 23:51:43,207:INFO:Data for ZT=F extracted and saved to database table ZT=F.
+2024-06-25 23:51:43,397:INFO:Data for ZO=F extracted and saved to database table ZO=F.
+2024-06-25 23:51:43,661:INFO:Data for ZR=F extracted and saved to database table ZR=F.
+2024-06-25 23:51:44,064:INFO:Data for ZQ=F extracted and saved to database table ZQ=F.
+2024-06-25 23:51:44,065:INFO:All data extracted and saved successfully.
+2024-06-26 00:13:20,809:INFO:Data for MES=F extracted and saved to database table MES=F.
+2024-06-26 00:13:21,006:INFO:Data for ES=F extracted and saved to database table ES=F.
+2024-06-26 00:13:21,185:INFO:Data for MNQ=F extracted and saved to database table MNQ=F.
+2024-06-26 00:13:21,392:INFO:Data for NQ=F extracted and saved to database table NQ=F.
+2024-06-26 00:13:21,599:INFO:Data for M2K=F extracted and saved to database table M2K=F.
+2024-06-26 00:13:21,794:INFO:Data for RTY=F extracted and saved to database table RTY=F.
+2024-06-26 00:13:22,005:INFO:Data for MYM=F extracted and saved to database table MYM=F.
+2024-06-26 00:13:22,171:INFO:Data for YM=F extracted and saved to database table YM=F.
+2024-06-26 00:13:22,529:INFO:Data for MGC=F extracted and saved to database table MGC=F.
+2024-06-26 00:13:22,806:INFO:Data for GC=F extracted and saved to database table GC=F.
+2024-06-26 00:13:23,253:INFO:Data for MCL=F extracted and saved to database table MCL=F.
+2024-06-26 00:13:23,501:INFO:Data for CL=F extracted and saved to database table CL=F.
+2024-06-26 00:13:23,625:INFO:Data for LE=F extracted and saved to database table LE=F.
+2024-06-26 00:13:23,875:INFO:Data for HG=F extracted and saved to database table HG=F.
+2024-06-26 00:13:24,059:INFO:Data for PL=F extracted and saved to database table PL=F.
+2024-06-26 00:13:24,253:INFO:Data for BTC=F extracted and saved to database table BTC=F.
+2024-06-26 00:13:24,519:INFO:Data for MBT=F extracted and saved to database table MBT=F.
+2024-06-26 00:13:24,696:INFO:Data for ETH=F extracted and saved to database table ETH=F.
+2024-06-26 00:13:24,849:INFO:Data for MET=F extracted and saved to database table MET=F.
+2024-06-26 00:13:25,178:INFO:Data for 6E=F extracted and saved to database table 6E=F.
+2024-06-26 00:13:25,380:INFO:Data for 6C=F extracted and saved to database table 6C=F.
+2024-06-26 00:13:25,724:INFO:Data for 6B=F extracted and saved to database table 6B=F.
+2024-06-26 00:13:25,999:INFO:Data for 6J=F extracted and saved to database table 6J=F.
+2024-06-26 00:13:26,228:INFO:Data for 6A=F extracted and saved to database table 6A=F.
+2024-06-26 00:13:26,478:INFO:Data for ZF=F extracted and saved to database table ZF=F.
+2024-06-26 00:13:26,719:INFO:Data for ZC=F extracted and saved to database table ZC=F.
+2024-06-26 00:13:26,985:INFO:Data for 6S=F extracted and saved to database table 6S=F.
+2024-06-26 00:13:27,206:INFO:Data for ZS=F extracted and saved to database table ZS=F.
+2024-06-26 00:13:27,394:INFO:Data for ZB=F extracted and saved to database table ZB=F.
+2024-06-26 00:13:27,580:INFO:Data for ZN=F extracted and saved to database table ZN=F.
+2024-06-26 00:13:27,744:INFO:Data for ZW=F extracted and saved to database table ZW=F.
+2024-06-26 00:13:27,995:INFO:Data for ZL=F extracted and saved to database table ZL=F.
+2024-06-26 00:13:28,161:INFO:Data for ZT=F extracted and saved to database table ZT=F.
+2024-06-26 00:13:28,299:INFO:Data for ZO=F extracted and saved to database table ZO=F.
+2024-06-26 00:13:28,467:INFO:Data for ZR=F extracted and saved to database table ZR=F.
+2024-06-26 00:13:28,587:INFO:Data for ZQ=F extracted and saved to database table ZQ=F.
+2024-06-26 00:13:28,588:INFO:All data extracted and saved successfully.
+2024-06-26 11:28:38,040:ERROR:Failed to extract stock prices: Execution failed on sql 'SELECT * FROM MES=F': near "=": syntax error
+2024-06-26 11:30:49,627:ERROR:Failed to extract stock prices: Execution failed on sql 'SELECT * FROM MES=F': near "=": syntax error
+2024-06-26 11:34:48,943:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-06-26 11:34:49,119:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-06-26 11:34:49,300:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-06-26 11:34:49,510:INFO:Data for NQ=F extracted and saved to database table "NQ=F".
+2024-06-26 11:34:49,707:INFO:Data for M2K=F extracted and saved to database table "M2K=F".
+2024-06-26 11:34:49,924:INFO:Data for RTY=F extracted and saved to database table "RTY=F".
+2024-06-26 11:34:50,140:INFO:Data for MYM=F extracted and saved to database table "MYM=F".
+2024-06-26 11:34:50,352:INFO:Data for YM=F extracted and saved to database table "YM=F".
+2024-06-26 11:34:50,545:INFO:Data for MGC=F extracted and saved to database table "MGC=F".
+2024-06-26 11:34:50,745:INFO:Data for GC=F extracted and saved to database table "GC=F".
+2024-06-26 11:34:51,049:INFO:Data for MCL=F extracted and saved to database table "MCL=F".
+2024-06-26 11:34:51,237:INFO:Data for CL=F extracted and saved to database table "CL=F".
+2024-06-26 11:34:51,376:INFO:Data for LE=F extracted and saved to database table "LE=F".
+2024-06-26 11:34:51,668:INFO:Data for HG=F extracted and saved to database table "HG=F".
+2024-06-26 11:34:51,865:INFO:Data for PL=F extracted and saved to database table "PL=F".
+2024-06-26 11:34:52,124:INFO:Data for BTC=F extracted and saved to database table "BTC=F".
+2024-06-26 11:34:52,318:INFO:Data for MBT=F extracted and saved to database table "MBT=F".
+2024-06-26 11:34:52,502:INFO:Data for ETH=F extracted and saved to database table "ETH=F".
+2024-06-26 11:34:52,738:INFO:Data for MET=F extracted and saved to database table "MET=F".
+2024-06-26 11:34:53,007:INFO:Data for 6E=F extracted and saved to database table "6E=F".
+2024-06-26 11:34:53,238:INFO:Data for 6C=F extracted and saved to database table "6C=F".
+2024-06-26 11:34:53,432:INFO:Data for 6B=F extracted and saved to database table "6B=F".
+2024-06-26 11:34:53,722:INFO:Data for 6J=F extracted and saved to database table "6J=F".
+2024-06-26 11:34:53,944:INFO:Data for 6A=F extracted and saved to database table "6A=F".
+2024-06-26 11:34:54,135:INFO:Data for ZF=F extracted and saved to database table "ZF=F".
+2024-06-26 11:34:54,346:INFO:Data for ZC=F extracted and saved to database table "ZC=F".
+2024-06-26 11:34:54,551:INFO:Data for 6S=F extracted and saved to database table "6S=F".
+2024-06-26 11:34:54,765:INFO:Data for ZS=F extracted and saved to database table "ZS=F".
+2024-06-26 11:34:54,946:INFO:Data for ZB=F extracted and saved to database table "ZB=F".
+2024-06-26 11:34:55,143:INFO:Data for ZN=F extracted and saved to database table "ZN=F".
+2024-06-26 11:34:55,331:INFO:Data for ZW=F extracted and saved to database table "ZW=F".
+2024-06-26 11:34:55,510:INFO:Data for ZL=F extracted and saved to database table "ZL=F".
+2024-06-26 11:34:55,688:INFO:Data for ZT=F extracted and saved to database table "ZT=F".
+2024-06-26 11:34:55,835:INFO:Data for ZO=F extracted and saved to database table "ZO=F".
+2024-06-26 11:34:55,993:INFO:Data for ZR=F extracted and saved to database table "ZR=F".
+2024-06-26 11:34:56,133:INFO:Data for ZQ=F extracted and saved to database table "ZQ=F".
+2024-06-26 11:34:56,134:INFO:All data extracted and saved successfully.
+2024-06-26 12:05:59,918:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-06-26 12:06:00,075:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-06-26 12:06:00,276:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-06-26 12:06:00,522:INFO:Data for NQ=F extracted and saved to database table "NQ=F".
+2024-06-26 12:06:00,738:INFO:Data for M2K=F extracted and saved to database table "M2K=F".
+2024-06-26 12:06:01,008:INFO:Data for RTY=F extracted and saved to database table "RTY=F".
+2024-06-26 12:06:01,265:INFO:Data for MYM=F extracted and saved to database table "MYM=F".
+2024-06-26 12:06:01,516:INFO:Data for YM=F extracted and saved to database table "YM=F".
+2024-06-26 12:06:01,747:INFO:Data for MGC=F extracted and saved to database table "MGC=F".
+2024-06-26 12:06:01,858:INFO:Data for GC=F extracted and saved to database table "GC=F".
+2024-06-26 12:06:02,011:INFO:Data for MCL=F extracted and saved to database table "MCL=F".
+2024-06-26 12:06:02,117:INFO:Data for CL=F extracted and saved to database table "CL=F".
+2024-06-26 12:06:02,236:INFO:Data for LE=F extracted and saved to database table "LE=F".
+2024-06-26 12:06:02,363:INFO:Data for HG=F extracted and saved to database table "HG=F".
+2024-06-26 12:06:02,482:INFO:Data for PL=F extracted and saved to database table "PL=F".
+2024-06-26 12:06:02,736:INFO:Data for BTC=F extracted and saved to database table "BTC=F".
+2024-06-26 12:06:02,843:INFO:Data for MBT=F extracted and saved to database table "MBT=F".
+2024-06-26 12:06:02,969:INFO:Data for ETH=F extracted and saved to database table "ETH=F".
+2024-06-26 12:06:03,088:INFO:Data for MET=F extracted and saved to database table "MET=F".
+2024-06-26 12:06:03,208:INFO:Data for 6E=F extracted and saved to database table "6E=F".
+2024-06-26 12:06:03,329:INFO:Data for 6C=F extracted and saved to database table "6C=F".
+2024-06-26 12:06:03,430:INFO:Data for 6B=F extracted and saved to database table "6B=F".
+2024-06-26 12:06:03,531:INFO:Data for 6J=F extracted and saved to database table "6J=F".
+2024-06-26 12:06:03,671:INFO:Data for 6A=F extracted and saved to database table "6A=F".
+2024-06-26 12:06:03,896:INFO:Data for ZF=F extracted and saved to database table "ZF=F".
+2024-06-26 12:06:04,044:INFO:Data for ZC=F extracted and saved to database table "ZC=F".
+2024-06-26 12:06:04,148:INFO:Data for 6S=F extracted and saved to database table "6S=F".
+2024-06-26 12:06:04,277:INFO:Data for ZS=F extracted and saved to database table "ZS=F".
+2024-06-26 12:06:04,371:INFO:Data for ZB=F extracted and saved to database table "ZB=F".
+2024-06-26 12:06:04,495:INFO:Data for ZN=F extracted and saved to database table "ZN=F".
+2024-06-26 12:06:04,640:INFO:Data for ZW=F extracted and saved to database table "ZW=F".
+2024-06-26 12:06:04,736:INFO:Data for ZL=F extracted and saved to database table "ZL=F".
+2024-06-26 12:06:04,895:INFO:Data for ZT=F extracted and saved to database table "ZT=F".
+2024-06-26 12:06:05,072:INFO:Data for ZO=F extracted and saved to database table "ZO=F".
+2024-06-26 12:06:05,286:INFO:Data for ZR=F extracted and saved to database table "ZR=F".
+2024-06-26 12:06:05,381:INFO:Data for ZQ=F extracted and saved to database table "ZQ=F".
+2024-06-26 12:06:05,382:INFO:All data extracted and saved successfully.
+2024-06-26 12:06:59,640:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-06-26 12:07:00,298:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-06-26 12:07:00,686:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-06-26 12:07:01,322:INFO:Data for NQ=F extracted and saved to database table "NQ=F".
+2024-06-26 12:07:01,635:INFO:Data for M2K=F extracted and saved to database table "M2K=F".
+2024-06-26 12:07:02,016:INFO:Data for RTY=F extracted and saved to database table "RTY=F".
+2024-06-26 12:07:02,233:INFO:Data for MYM=F extracted and saved to database table "MYM=F".
+2024-06-26 12:07:02,433:INFO:Data for YM=F extracted and saved to database table "YM=F".
+2024-06-26 12:07:02,738:INFO:Data for MGC=F extracted and saved to database table "MGC=F".
+2024-06-26 12:07:03,206:INFO:Data for GC=F extracted and saved to database table "GC=F".
+2024-06-26 12:07:03,569:INFO:Data for MCL=F extracted and saved to database table "MCL=F".
+2024-06-26 12:07:03,937:INFO:Data for CL=F extracted and saved to database table "CL=F".
+2024-06-26 12:07:04,286:INFO:Data for LE=F extracted and saved to database table "LE=F".
+2024-06-26 12:07:04,523:INFO:Data for HG=F extracted and saved to database table "HG=F".
+2024-06-26 12:07:04,723:INFO:Data for PL=F extracted and saved to database table "PL=F".
+2024-06-26 12:07:05,110:INFO:Data for BTC=F extracted and saved to database table "BTC=F".
+2024-06-26 12:07:05,460:INFO:Data for MBT=F extracted and saved to database table "MBT=F".
+2024-06-26 12:07:05,921:INFO:Data for ETH=F extracted and saved to database table "ETH=F".
+2024-06-26 12:07:06,277:INFO:Data for MET=F extracted and saved to database table "MET=F".
+2024-06-26 12:07:06,530:INFO:Data for 6E=F extracted and saved to database table "6E=F".
+2024-06-26 12:07:06,949:INFO:Data for 6C=F extracted and saved to database table "6C=F".
+2024-06-26 12:07:07,317:INFO:Data for 6B=F extracted and saved to database table "6B=F".
+2024-06-26 12:07:07,688:INFO:Data for 6J=F extracted and saved to database table "6J=F".
+2024-06-26 12:07:08,061:INFO:Data for 6A=F extracted and saved to database table "6A=F".
+2024-06-26 12:07:08,318:INFO:Data for ZF=F extracted and saved to database table "ZF=F".
+2024-06-26 12:07:08,846:INFO:Data for ZC=F extracted and saved to database table "ZC=F".
+2024-06-26 12:07:09,207:INFO:Data for 6S=F extracted and saved to database table "6S=F".
+2024-06-26 12:07:09,570:INFO:Data for ZS=F extracted and saved to database table "ZS=F".
+2024-06-26 12:07:10,339:INFO:Data for ZB=F extracted and saved to database table "ZB=F".
+2024-06-26 12:07:10,555:INFO:Data for ZN=F extracted and saved to database table "ZN=F".
+2024-06-26 12:07:10,796:INFO:Data for ZW=F extracted and saved to database table "ZW=F".
+2024-06-26 12:07:11,017:INFO:Data for ZL=F extracted and saved to database table "ZL=F".
+2024-06-26 12:07:11,260:INFO:Data for ZT=F extracted and saved to database table "ZT=F".
+2024-06-26 12:07:11,427:INFO:Data for ZO=F extracted and saved to database table "ZO=F".
+2024-06-26 12:07:11,733:INFO:Data for ZR=F extracted and saved to database table "ZR=F".
+2024-06-26 12:07:11,959:INFO:Data for ZQ=F extracted and saved to database table "ZQ=F".
+2024-06-26 12:07:11,960:INFO:All data extracted and saved successfully.
+2024-06-26 12:10:08,329:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-06-26 12:10:08,738:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-06-26 12:10:09,162:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-06-26 12:10:09,404:INFO:Data for NQ=F extracted and saved to database table "NQ=F".
+2024-06-26 12:10:09,593:INFO:Data for M2K=F extracted and saved to database table "M2K=F".
+2024-06-26 12:10:09,961:INFO:Data for RTY=F extracted and saved to database table "RTY=F".
+2024-06-26 12:10:10,323:INFO:Data for MYM=F extracted and saved to database table "MYM=F".
+2024-06-26 12:10:10,692:INFO:Data for YM=F extracted and saved to database table "YM=F".
+2024-06-26 12:10:11,081:INFO:Data for MGC=F extracted and saved to database table "MGC=F".
+2024-06-26 12:10:11,337:INFO:Data for GC=F extracted and saved to database table "GC=F".
+2024-06-26 12:10:12,324:INFO:Data for MCL=F extracted and saved to database table "MCL=F".
+2024-06-26 12:10:12,678:INFO:Data for CL=F extracted and saved to database table "CL=F".
+2024-06-26 12:10:13,310:INFO:Data for LE=F extracted and saved to database table "LE=F".
+2024-06-26 12:10:14,258:INFO:Data for HG=F extracted and saved to database table "HG=F".
+2024-06-26 12:10:14,623:INFO:Data for PL=F extracted and saved to database table "PL=F".
+2024-06-26 12:10:14,886:INFO:Data for BTC=F extracted and saved to database table "BTC=F".
+2024-06-26 12:10:15,116:INFO:Data for MBT=F extracted and saved to database table "MBT=F".
+2024-06-26 12:10:15,343:INFO:Data for ETH=F extracted and saved to database table "ETH=F".
+2024-06-26 12:10:15,552:INFO:Data for MET=F extracted and saved to database table "MET=F".
+2024-06-26 12:10:15,802:INFO:Data for 6E=F extracted and saved to database table "6E=F".
+2024-06-26 12:10:16,163:INFO:Data for 6C=F extracted and saved to database table "6C=F".
+2024-06-26 12:10:16,367:INFO:Data for 6B=F extracted and saved to database table "6B=F".
+2024-06-26 12:10:16,611:INFO:Data for 6J=F extracted and saved to database table "6J=F".
+2024-06-26 12:10:17,345:INFO:Data for 6A=F extracted and saved to database table "6A=F".
+2024-06-26 12:10:17,627:INFO:Data for ZF=F extracted and saved to database table "ZF=F".
+2024-06-26 12:10:18,003:INFO:Data for ZC=F extracted and saved to database table "ZC=F".
+2024-06-26 12:10:18,229:INFO:Data for 6S=F extracted and saved to database table "6S=F".
+2024-06-26 12:10:18,432:INFO:Data for ZS=F extracted and saved to database table "ZS=F".
+2024-06-26 12:10:19,264:INFO:Data for ZB=F extracted and saved to database table "ZB=F".
+2024-06-26 12:10:20,331:INFO:Data for ZN=F extracted and saved to database table "ZN=F".
+2024-06-26 12:10:20,606:INFO:Data for ZW=F extracted and saved to database table "ZW=F".
+2024-06-26 12:10:21,340:INFO:Data for ZL=F extracted and saved to database table "ZL=F".
+2024-06-26 12:10:21,528:INFO:Data for ZT=F extracted and saved to database table "ZT=F".
+2024-06-26 12:10:21,878:INFO:Data for ZO=F extracted and saved to database table "ZO=F".
+2024-06-26 12:10:22,287:INFO:Data for ZR=F extracted and saved to database table "ZR=F".
+2024-06-26 12:10:22,502:INFO:Data for ZQ=F extracted and saved to database table "ZQ=F".
+2024-06-26 12:10:22,504:INFO:All data extracted and saved successfully.
+2024-07-01 14:05:13,862:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-07-01 14:05:14,135:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-07-01 14:05:14,418:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-07-01 14:05:14,635:INFO:Data for NQ=F extracted and saved to database table "NQ=F".
+2024-07-01 14:05:17,881:INFO:Data for M2K=F extracted and saved to database table "M2K=F".
+2024-07-01 14:05:18,298:INFO:Data for RTY=F extracted and saved to database table "RTY=F".
+2024-07-01 14:05:18,603:INFO:Data for MYM=F extracted and saved to database table "MYM=F".
+2024-07-01 14:05:20,426:ERROR:$YM=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:05:20,427:ERROR:Failed to extract stock prices: 'Datetime'
+2024-07-01 14:06:36,908:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-07-01 14:06:38,193:ERROR:$ES=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:06:38,195:ERROR:Failed to extract stock prices: 'Datetime'
+2024-07-01 14:09:17,902:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-07-01 14:09:18,127:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-07-01 14:09:21,229:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-07-01 14:09:21,513:INFO:Data for NQ=F extracted and saved to database table "NQ=F".
+2024-07-01 14:09:21,710:INFO:Data for M2K=F extracted and saved to database table "M2K=F".
+2024-07-01 14:09:21,917:INFO:Data for RTY=F extracted and saved to database table "RTY=F".
+2024-07-01 14:09:23,552:INFO:Data for MYM=F extracted and saved to database table "MYM=F".
+2024-07-01 14:09:23,806:INFO:Data for YM=F extracted and saved to database table "YM=F".
+2024-07-01 14:09:24,072:INFO:Data for MGC=F extracted and saved to database table "MGC=F".
+2024-07-01 14:09:24,377:INFO:Data for GC=F extracted and saved to database table "GC=F".
+2024-07-01 14:09:30,644:ERROR:$MCL=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:09:30,646:ERROR:Failed to extract stock prices: 'Datetime'
+2024-07-01 14:10:42,666:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-07-01 14:10:43,153:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-07-01 14:10:43,717:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-07-01 14:10:47,192:ERROR:$NQ=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:10:47,192:ERROR:Failed to extract stock prices: 'Datetime'
+2024-07-01 14:11:21,022:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-07-01 14:11:21,350:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-07-01 14:11:25,057:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-07-01 14:11:30,154:ERROR:$NQ=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:11:30,155:ERROR:Failed to extract stock prices: 'Datetime'
+2024-07-01 14:14:27,601:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-07-01 14:14:28,000:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-07-01 14:14:28,437:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-07-01 14:14:28,720:INFO:Data for NQ=F extracted and saved to database table "NQ=F".
+2024-07-01 14:14:29,314:INFO:Data for M2K=F extracted and saved to database table "M2K=F".
+2024-07-01 14:14:29,694:INFO:Data for RTY=F extracted and saved to database table "RTY=F".
+2024-07-01 14:14:30,097:INFO:Data for MYM=F extracted and saved to database table "MYM=F".
+2024-07-01 14:14:30,445:INFO:Data for YM=F extracted and saved to database table "YM=F".
+2024-07-01 14:14:30,898:INFO:Data for MGC=F extracted and saved to database table "MGC=F".
+2024-07-01 14:14:31,416:INFO:Data for GC=F extracted and saved to database table "GC=F".
+2024-07-01 14:14:44,880:INFO:Data for MCL=F extracted and saved to database table "MCL=F".
+2024-07-01 14:14:45,183:INFO:Data for CL=F extracted and saved to database table "CL=F".
+2024-07-01 14:14:45,496:INFO:Data for LE=F extracted and saved to database table "LE=F".
+2024-07-01 14:14:46,063:INFO:Data for HG=F extracted and saved to database table "HG=F".
+2024-07-01 14:14:47,854:ERROR:$PL=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:14:47,856:ERROR:Failed to extract stock prices: 'Datetime'
+2024-07-01 14:17:56,791:INFO:Data for MES=F extracted and saved to database table "MES=F".
+2024-07-01 14:17:59,866:ERROR:$ES=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:17:59,866:ERROR:Attempt 1 failed for ES=F: No historical data found for ES=F
+2024-07-01 14:18:04,904:ERROR:$ES=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:18:04,904:ERROR:Attempt 2 failed for ES=F: No historical data found for ES=F
+2024-07-01 14:18:09,006:INFO:Data for ES=F extracted and saved to database table "ES=F".
+2024-07-01 14:18:09,247:INFO:Data for MNQ=F extracted and saved to database table "MNQ=F".
+2024-07-01 14:18:09,619:INFO:Data for NQ=F extracted and saved to database table "NQ=F".
+2024-07-01 14:18:09,925:INFO:Data for M2K=F extracted and saved to database table "M2K=F".
+2024-07-01 14:18:12,264:ERROR:$RTY=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:18:12,264:ERROR:Attempt 1 failed for RTY=F: No historical data found for RTY=F
+2024-07-01 14:18:14,725:INFO:Data for RTY=F extracted and saved to database table "RTY=F".
+2024-07-01 14:18:15,051:INFO:Data for MYM=F extracted and saved to database table "MYM=F".
+2024-07-01 14:18:23,347:INFO:Data for YM=F extracted and saved to database table "YM=F".
+2024-07-01 14:18:24,821:INFO:Data for MGC=F extracted and saved to database table "MGC=F".
+2024-07-01 14:18:25,107:INFO:Data for GC=F extracted and saved to database table "GC=F".
+2024-07-01 14:18:25,359:INFO:Data for MCL=F extracted and saved to database table "MCL=F".
+2024-07-01 14:18:25,605:INFO:Data for CL=F extracted and saved to database table "CL=F".
+2024-07-01 14:18:25,784:INFO:Data for LE=F extracted and saved to database table "LE=F".
+2024-07-01 14:18:26,016:INFO:Data for HG=F extracted and saved to database table "HG=F".
+2024-07-01 14:18:26,219:INFO:Data for PL=F extracted and saved to database table "PL=F".
+2024-07-01 14:18:26,510:INFO:Data for BTC=F extracted and saved to database table "BTC=F".
+2024-07-01 14:18:26,747:INFO:Data for MBT=F extracted and saved to database table "MBT=F".
+2024-07-01 14:18:27,020:INFO:Data for ETH=F extracted and saved to database table "ETH=F".
+2024-07-01 14:18:27,196:INFO:Data for MET=F extracted and saved to database table "MET=F".
+2024-07-01 14:18:28,619:ERROR:$6E=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:18:28,619:ERROR:Attempt 1 failed for 6E=F: No historical data found for 6E=F
+2024-07-01 14:18:32,508:ERROR:$6E=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:18:32,508:ERROR:Attempt 2 failed for 6E=F: No historical data found for 6E=F
+2024-07-01 14:18:36,586:INFO:Data for 6E=F extracted and saved to database table "6E=F".
+2024-07-01 14:18:36,865:INFO:Data for 6C=F extracted and saved to database table "6C=F".
+2024-07-01 14:18:37,113:INFO:Data for 6B=F extracted and saved to database table "6B=F".
+2024-07-01 14:18:37,322:INFO:Data for 6J=F extracted and saved to database table "6J=F".
+2024-07-01 14:18:37,713:INFO:Data for 6A=F extracted and saved to database table "6A=F".
+2024-07-01 14:18:37,987:INFO:Data for ZF=F extracted and saved to database table "ZF=F".
+2024-07-01 14:18:38,286:INFO:Data for ZC=F extracted and saved to database table "ZC=F".
+2024-07-01 14:18:38,515:INFO:Data for 6S=F extracted and saved to database table "6S=F".
+2024-07-01 14:18:38,701:INFO:Data for ZS=F extracted and saved to database table "ZS=F".
+2024-07-01 14:18:38,924:INFO:Data for ZB=F extracted and saved to database table "ZB=F".
+2024-07-01 14:18:48,946:ERROR:$ZN=F: possibly delisted; No price data found  (period=5d)
+2024-07-01 14:18:48,946:ERROR:Attempt 1 failed for ZN=F: No historical data found for ZN=F
+2024-07-01 14:18:51,778:INFO:Data for ZN=F extracted and saved to database table "ZN=F".
+2024-07-01 14:18:51,964:INFO:Data for ZW=F extracted and saved to database table "ZW=F".
+2024-07-01 14:18:52,216:INFO:Data for ZL=F extracted and saved to database table "ZL=F".
+2024-07-01 14:18:52,434:INFO:Data for ZT=F extracted and saved to database table "ZT=F".
+2024-07-01 14:18:52,583:INFO:Data for ZO=F extracted and saved to database table "ZO=F".
+2024-07-01 14:18:52,811:INFO:Data for ZR=F extracted and saved to database table "ZR=F".
+2024-07-01 14:18:53,020:INFO:Data for ZQ=F extracted and saved to database table "ZQ=F".
+2024-07-01 14:18:53,021:INFO:All data extracted and saved successfully.

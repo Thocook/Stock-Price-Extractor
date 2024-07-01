@@ -13,6 +13,7 @@ A Dockerized application that automatically extracts stock prices from yfinance 
 - Python
 - SQLite
 - Bash
+- Docker
 - HTML
 - CSS
 

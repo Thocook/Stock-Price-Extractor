@@ -27,8 +27,10 @@ The project is Dockerized and uses a shell script to initialize the environment.
 - **Port 80**:
   1. Download the repository.
   2. Build the container.
-  3. Access the application via a web browser at [http://localhost:80](http://localhost:80).
-  4. The stock prices are automatically updated as per the cron job schedule.
+       `docker build -t stock_price_extractor .`
+      `docker run -d -p 80:80 stock_price_extractor`
+  4. Access the application via a web browser at [http://localhost:80](http://localhost:80).
+  5. The stock prices are automatically updated as per the cron job schedule.
 
 ## Configuration
 - **Cron Job Schedule**: Modify the cron job schedule in the `crontab` file to change the frequency of data fetching.

@@ -38,5 +38,5 @@ The project is Dockerized and uses a shell script to initialize the environment.
 - Use a more robust database like PostgreSQL for better scalability.
 - Host the container on an online server for consistent availability.
 
-  ##UI:
+  ## UI:
   ![image](https://github.com/Thocook/Stock-Price-Extractor/assets/134341575/5dca5458-e098-4f07-bd6c-9abdd13a0378)

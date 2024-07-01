@@ -9,14 +9,14 @@ A Dockerized application that automatically extracts stock prices from yfinance 
 - Flask-based back-end for handling HTTP requests
 - Simple front-end with HTML and CSS for data display
 
-## Technologies Used
-- Python
-- SQLite
-- Bash
-- Docker
-- HTML
-- CSS
-
+## Tech Stack
+- **Programming Languages**: Python, Bash
+- **Database**: SQLite
+- **Web Framework**: Flask
+- **Containerization**: Docker
+- **Scheduling**: Cron
+- **Frontend Technologies**: HTML, CSS
+  
 ## Architecture
 The project is Dockerized and uses a shell script to initialize the environment. A cron job executes a Python script to fetch stock prices and store them in an SQLite database, ensuring automated updating. Flask handles HTTP requests and interacts with the database, serving a simple front-end built with HTML and CSS.
 

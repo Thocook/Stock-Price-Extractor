@@ -1,5 +1,5 @@
 ## Overview
-A Dockerized application that automatically extracts stock prices every minute, stores them in an SQLite database, and displays them through a Flask-based web interface.
+A Dockerized application that automatically extracts stock prices from yfinance every minute, stores them in an SQLite database, and displays them through a Flask-based web interface.
 
 ## Features
 - Automated 1-minute stock price extraction

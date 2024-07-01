@@ -36,7 +36,7 @@ The project is Dockerized and uses a shell script to initialize the environment.
 - **Cron Job Schedule**: Modify the cron job schedule in the `crontab` file to change the frequency of data fetching.
 - **Database**: The SQLite database file is located at `stock_prices.db`.
 
-## Ways to Improve
+## Possible Advancements
 - Expand the list of tickers to create a bigger database.
 - Use a more robust database like PostgreSQL for better scalability.
 - Host the container on an online server for consistent availability.
